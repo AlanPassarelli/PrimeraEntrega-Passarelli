@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//alanpassarelli.github.io/PrimeraEntrega-Passarelli/static/css/main.0a6a106b.css",
+    "main.js": "//alanpassarelli.github.io/PrimeraEntrega-Passarelli/static/js/main.16a3cf32.js",
+    "index.html": "//alanpassarelli.github.io/PrimeraEntrega-Passarelli/index.html",
+    "main.0a6a106b.css.map": "//alanpassarelli.github.io/PrimeraEntrega-Passarelli/static/css/main.0a6a106b.css.map",
+    "main.16a3cf32.js.map": "//alanpassarelli.github.io/PrimeraEntrega-Passarelli/static/js/main.16a3cf32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a6a106b.css",
+    "static/js/main.16a3cf32.js"
+  ]
+}
